@@ -47,18 +47,16 @@ Plot the VaR results to illustrate the impact of correlation on portfolio risk.
 
 Usage
 Clone the repository:
-
-``` bash
 Copy code
+``` bash
 git clone https://github.com/your-repo/multi-asset-var
 
 cd multi-asset-var
-````
+```
 
 Install dependencies:
-
-``` bash
 Copy code
+``` bash
 pip install -r requirements.txt
 ```
 Run the notebook:
